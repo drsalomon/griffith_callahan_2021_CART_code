@@ -1,0 +1,72 @@
+protein name	count
+A6RP	1
+ABL interactor 1	1
+ABL interactor 2	1
+ARP2/3 protein complex subunit p21	1
+Aldolase 3	1
+Ataxin 2 domain protein	1
+BLK	1
+CBL	1
+CD28	2
+CD3 gamma	1
+CD31	1
+CD84	1
+CRKL	1
+CblB	1
+Cofilin 1	1
+Cortactin	1
+Cyclin dependent kinase 5	1
+Cytoskeleton associated protein 1	1
+DDX3	1
+Dedicator of cytokinesis 2	1
+Docking protein 1	4
+Docking protein 2, 56kDa	1
+EPS15R	1
+ERK1	3
+ERK2	2
+Engulfment and cell motility 2	1
+Enolase 2	1
+Eukaryotic translation elongation factor 2	1
+FYB	3
+Fyn	1
+Glucocorticoid receptor DNA binding factor 1	1
+Glycogen debranching enzyme	1
+Grb4	2
+Hematopoietic cell specific LYN substrate 1	1
+Heterogeneous nuclear ribonucleoprotein U	1
+ITK	1
+Intersectin 2	1
+Lactate dehydrogenase A	1
+Lck	1
+Leupaxin	1
+LysM,  peptidoglycan-binding, domain containing 2	1
+MAPK14	3
+MCM3	2
+Myotubularin related protein 10	1
+NCK1	1
+NTBA	1
+PI 3 kinase, regulatory subunit beta	1
+PLC, gamma 2	2
+PRP4 pre-mRNA processing factor 4 homolog B	2
+PTK2B protein tyrosine kinase 2 beta	2
+Phosphatidylinositol 3 kinase regulatory subunit, alpha	2
+Phosphoinositide 3 kinase adaptor protein 1	1
+Phospholipase C like 2	1
+Phospholipase C, gamma 1	5
+Proteasome subunit alpha type 2	1
+Protein tyrosine phosphatase, non-receptor type 11	1
+Protein tyrosine phosphatase, non-receptor type 6	2
+Pyruvate kinase 3	1
+Rho GTPase-activating protein 27	1
+SHC (Src homology 2 domain containing) transforming protein 1	1
+SIT	3
+SRp30c	1
+T cell antigen receptor, zeta	5
+TYK2	1
+Tyrosine-protein kinase PRAG1	1
+VAV1	1
+VAV3	2
+Vacuolar protein sorting 35	1
+Wiskott-Aldrich syndrome-like	1
+Wiskott-aldrich syndrome protein	1
+ZAP70	3

@@ -1,0 +1,649 @@
+protein name	count
+5`-3` exoribonuclease 2	1
+6-phosphofructo-2 kinase/fructose-2,6-biphosphatase 2	1
+7-dehydrocholesterol reductase	1
+A kinase anchor protein 2	4
+A kinase anchoring protein 13	1
+ACINUS	7
+ADP ribosylation factor like 3	1
+AF10	1
+AF5Q31	1
+AKAP95	1
+AP2 associated kinase 1	1
+ARL6IP4	1
+ARPP-21	2
+ASH2 like	1
+AT rich interactive domain 1A	1
+ATP binding cassette 50	2
+ATP citrate lyase	1
+ATPase classVI type11B	1
+Actin binding LIM protein 1	2
+Actin-like 6A	1
+Activating transcription factor 2	1
+Adducin 1 alpha	3
+Adducin 3	1
+Aladin	1
+AlkB, alkylation repair homolog 5	1
+Alpha-2-HS glycoprotein	1
+Anaphase promoting complex, subunit 1	1
+Androgen induced proliferation inhibitor	3
+Antigen identified by monoclonal antibody Ki-67	1
+Arachidonate 12-oxidoreductase	1
+Arf-GAP with dual PH domain-containing protein 1 (Fragment)	1
+Arsenite resistance protein 2	3
+Ataxin 10	1
+Ataxin 2 domain protein	1
+Autoantigen La	1
+Autoantigen RCD8	1
+B-lymphocyte cell-surface antigen B1	1
+BCL2 associated transcription factor 1	8
+BHC110	2
+BIN2	1
+BMP2 inducible protein kinase	1
+BPY2 interacting protein 1	2
+BRCA2 and CDKN1A interacting protein	1
+BUB1	1
+Basic leucine zipper and W2 domains 2	1
+Bromodomain adjacent to zinc finger domain, 1B	2
+Bromodomain containing 4	1
+Bromodomain containing 8	1
+Bystin	2
+C13orf3 protein	1
+C13orf8 protein	3
+C14orf11 protein	1
+C14orf120 protein	1
+C19orf14 protein	1
+C20ORF1 protein	2
+C22orf5 protein	1
+C4orf9 protein	1
+C5orf3 protein	1
+C6orf113 protein	1
+C8orf20 protein	1
+C9orf42 protein	1
+C9orf55 protein	1
+C9orf78	2
+C9orf88 protein	1
+CBL	1
+CBP80	1
+CCAAT binding factor	1
+CD2 associated protein	1
+CD5	1
+CDC 25B	1
+CDC2 related protein kinase 7	2
+CHMP family, member 7	1
+CLN6 protein	1
+CLNS1A	1
+CRDBP	1
+Calcium regulated heat stable protein 1	1
+Calnexin	2
+CapZ-interacting protein	1
+Catenin alpha 1	1
+Cell division cycle 2 like 2	3
+Cell division cycle 2 like 5	2
+Centaurin beta 1	1
+Centaurin delta 2	1
+Chr2 synaptotagmin	3
+Chromatin assembly factor 1 subunit A	2
+Chromatin assembly factor 1 subunit B	1
+Chromobox homolog 3	2
+Chromodomain helicase DNA binding protein 3	1
+Chromodomain helicase DNA binding protein 4	1
+Chromosome 1 open reading frame 144	1
+Chromosome 10 open reading frame 9	1
+Chromosome 14 open reading frame 43	1
+Chromosome 19 open reading frame 13	2
+Chromosome 2 open reading frame 17	1
+Chromosome 22 open reading frame 19 protein	1
+Chromosome 6 open reading frame 108	1
+Chromosome 6 open reading frame 206	1
+Chromosome 6 open reading frame 93	1
+Chromosome 7 open reading frame 50	1
+Chromosome 9 open reading frame 142	1
+Chromosome 9 open reading frame 82 protein	1
+Chromosome 9 open reading frame 86	1
+Chromosome associated kinesin KIF4A	2
+Chromosome condensation 1	1
+Coiled-coil domain containing 131	1
+Coiled-coil domain containing 132	2
+Coiled-coil domain containing 144B	1
+Coiled-coil domain containing 52	1
+Coiled-coil domain containing 86	3
+Coiled-coil domain containing 94	2
+Coiled-coil domain containing 97	2
+Coiled-coil-helix-coiled-coil-helix domain containing 3	2
+Conserved nuclear protein NHN1	4
+Core binding factor, beta subunit	1
+Cross immune reaction antigen PCIA1	1
+Cyclin L1	1
+Cyclin dependent kinase 7	1
+Cyclin dependent kinase inhibitor 3	2
+Cylindromatosis gene protein	1
+Cysteine string protein	1
+Cytidine 5-prime triphosphate synthetase	5
+Cytoplasmic linker associated protein 2	1
+Cytoskeleton-like bicaudal D protein homolog 2	1
+D4, zinc and double PHD fingers family 2	1
+DBC1	2
+DDX16	1
+DDX21	1
+DDX24	1
+DDX3	1
+DDX41	1
+DDX42	1
+DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	1
+DEAD-box protein 54	1
+DEF6	3
+DEK Oncogene	1
+DENN domain-containing protein 1B	1
+DEP domain containing 1B	1
+DKFZP434C212 protein	1
+DKFZP434P1750 protein	2
+DKFZp761A052 protein	1
+DNA Ligase III	1
+DNA methyltransferase 1	1
+DNA topoisomerase II alpha	5
+DYRK1B	1
+Death associated protein	2
+Death associated transcription factor 1	1
+Dedicator of cytokinesis 2	1
+Dedicator of cytokinesis 7	1
+Delangin	1
+Density regulated protein	1
+Desmoglein 2	1
+DiGeorge syndrome critical region gene 8	2
+Dihydropyrimidinase-related protein 2	1
+Dihydrouridine synthase 3-like	2
+Discs, large homolog 7	1
+Double strand break repair protein MRE11A	1
+Drebrin E	1
+Dynein light chain A	1
+Dyskerin	3
+Dystrophin	1
+E2-230K	2
+EIF3S5	1
+EIF3S8	1
+ELAC	1
+ELL associated factor 1	2
+EMSY Protein	1
+ERF	3
+ERK1	1
+ERK2	1
+ETS translocation variant 6	1
+ETS1	1
+Emerin	2
+Ena vasodilator stimulated phosphoprotein like protein	4
+Endosulfine alpha	1
+Enhancer of mRNA decapping 3 homolog	1
+Epsin 1	1
+Erbin	4
+Erythrocyte membrane protein band 4.1	2
+Eukaryotic translation elongation factor 1 beta 2	1
+Eukaryotic translation elongation factor 1 gamma	1
+Eukaryotic translation elongation factor 1, delta	1
+Eukaryotic translation initiation factor 4B	3
+Eukaryotic translation initiation factor 4E binding protein 1	2
+Eukaryotic translation initiation factor 4E binding protein 2	2
+Eukaryotic translation initiation factor 5	1
+Eukaryotic translation initiation factor 5B	2
+Eukaryotic translation initiation factor 6	1
+Excision repair cross-complementing rodent repair deficiency, complementation group 6	1
+Exocyst complex component 4	1
+F-box protein 42	1
+FGD1 family member 3	1
+FGFR1 oncogene partner	2
+FK506 binding protein 4	1
+FLJ14936	1
+FLN29 protein	1
+FMRP interacting protein, 82-kD	2
+FNBP4	1
+FUS interacting protein 1	2
+FXR1	1
+Family with sequence similarity 53, member B	1
+Family with sequence similarity 54, member B	1
+Family with sequence similarity 91, member A1	1
+Ferritin heavy chain 1	1
+Fetal Alzheimer antigen	1
+Flightless 1	1
+Fodrin beta	6
+Forkhead box K2	1
+Formin binding protein 1	2
+Formin like	1
+G protein coupled purinergic receptor P2Y8	1
+G protein dependent receptor kinase 2	1
+GATA binding protein 3	1
+GATA zinc finger domain containing 2B	1
+GIT1	1
+GL004 protein	1
+GRID	3
+GRK-interacting protein 2	1
+GTP binding protein 4	1
+GTPase activating Rap/RanGAP domain like 1	1
+GTPase activating Rap/RanGAP domain like 4	6
+Gamma-tubulin complex component 3	1
+General transcription factor IIIC, polypeptide 2, beta 110kDa	2
+Glucocorticoid receptor DNA binding factor 1	1
+Glutamine dependent carbamoyl phosphate synthase	1
+Glutamyl-prolyl-tRNA synthetase	1
+Glycogen phosphorylase, brain type	1
+Glycogen synthase kinase 3 alpha	1
+Golgi specific brefeldin A resistance factor 1	1
+Grb4	1
+Guanine nucleotide binding protein like1	2
+Guanine nucleotide releasing factor 2	1
+H2AX histone	1
+H3 Histone, family 3B	1
+HBXAP	1
+HIRA interacting protein 3	6
+HIV 1 REV binding protein	2
+HLA class I histocompatibility antigen, B-58 alpha chain	1
+HLA-A	1
+HLA-B associated transcript 2	1
+HLA-B associated transcript 3	1
+HSHIN1	2
+HSP90B	1
+Hect domain and RCC1 like domain 1	1
+Hepatoma derived growth factor	1
+Hepatoma-derived growth factor-related protein 2	2
+Heterogeneous nuclear ribonucleoprotein A3	1
+Heterogeneous nuclear ribonucleoprotein C	2
+Heterogeneous nuclear ribonucleoprotein D	1
+Heterogeneous nuclear ribonucleoprotein H1	1
+Heterogeneous nuclear ribonucleoprotein K	2
+Heterogeneous nuclear ribonucleoproteins C1/C2	1
+High mobility group AT hook 1	1
+Histone 1 H1E	1
+Histone 1, H1b	1
+Histone H1x	1
+Histone deacetylase 1	1
+Histone deacetylase 2	1
+Human immunodeficiency virus type1 enhancer-binding protein2	1
+Hypothetical protein DKFZp762E1312	1
+Hypothetical protein FLJ10154	1
+Hypothetical protein LOC348262	2
+Hypothetical protein LOC729440	1
+Hypothetical protein MGC22014	1
+IGF II receptor	1
+IQGAP2	1
+IWS1 homolog	5
+Inner centromere protein	2
+Inorganic pyrophosphatase 2	1
+Integrator complex subunit 1	1
+Interferon gamma inducible protein 16	1
+Interferon regulatory factor 2 binding protein 2	1
+Interferon regulatory factor 3	2
+Interleukin enhancer binding factor 3	1
+Isoform 2 of Protein SOGA1	1
+Isoform 3 of Proline-rich protein 12	1
+Janus kinase 3	1
+KARP 1 binding protein	1
+KH type splicing regulatory protein	1
+KIAA0179	2
+KIAA0460	1
+KIAA1115 protein	2
+KIAA1143 protein	1
+KIAA1429	2
+KIAA1604 protein	1
+KRI1 homolog	1
+Kinesin family member 21B	1
+Kinesin light chain 1 (Fragment)	1
+Kinesin light chain 4	1
+L3MBTL2	1
+LARP	6
+LASS2	1
+LIG1 DNA ligase I	4
+LIM domain containing 2	1
+LIM domain only 7	2
+LOC159090	1
+LOC388974	1
+LOC389677 protein	2
+LUC7 like	1
+Lamin B receptor	1
+Lamin B1	1
+Lamina associated polypeptide 1B	1
+Lck	1
+Leucine rich repeat containing 47	1
+Lin 9 homolog	2
+Linker for activation of T cells	2
+Lymphocyte cytosolic protein 1	1
+Lymphocyte specific protein	1
+M phase phosphoprotein, mpp8	2
+MAP4K4	1
+MARCKS like protein	6
+MCM2 minichromosome maintenance deficient 2, mitotin	3
+MCM3	1
+MGC13125	1
+MLLT2	3
+MPP10	1
+MST4	1
+Macrophin 1	1
+Matrin 3	1
+Mediator of DNA damage checkpoint 1	4
+Melanoregulin	1
+Mesoderm induction early response 1	1
+Metadherin	1
+Metastasis associated protein MTA2	1
+Methyl CpG binding domain protein 2	1
+Microtubule associated protein 1A	4
+Microtubule associated protein 4	2
+Microtubule associated protein tau	2
+Minor histocompatibility antigen HA1	1
+Myelin expression factor 2	1
+Myosin XVIIIA	1
+Myosin heavy chain 9, nonmuscle	1
+Myosin phosphatase target subunit 1	1
+Myotubularin related protein 1	1
+Myotubularin related protein 3	1
+NAG	1
+NCK1	1
+NDRG family member 3	1
+NECAP endocytosis associated 2	1
+NFAT1	2
+NHS	1
+NICE 4 protein	1
+NIR3	1
+NOL1/NOP2/Sun domain family, member 2	2
+NOP56	3
+NUP107	1
+NUP133	2
+NUP214	1
+NUP98	1
+Nascent polypeptide associated complex, alpha polypeptide	1
+Nesprin 2	1
+Neurofibromatosis type I	1
+Neutrophil cytosolic factor 2	1
+Nin one binding protein	1
+Non-SMC condensin II complex, subunit H2	1
+Nuclear autoantigenic sperm protein	1
+Nuclear mitotic apparatus protein 1	1
+Nuclear protein UKp68	1
+Nuclear receptor coactivator 5	1
+Nuclear receptor corepressor 1	4
+Nuclear receptor corepressor 2	1
+Nuclear ubiquitous casein kinase and cyclin dependent kinase substrate	3
+Nucleolar phosphoprotein p130	1
+Nucleolar protein 8	2
+Nucleolar protein NOP5	1
+Nucleolin	3
+Nucleoporin 160kDa	1
+OSBP related protein 11	1
+Odin	1
+Osteoclast stimulating factor 1	2
+Oxysterol binding protein	1
+P160	1
+PA2G4	1
+PAK2	4
+PARN	1
+PC4 and SFRS1 interacting protein 1	3
+PCTAIRE protein kinase 1	2
+PCTAIRE protein kinase 2	2
+PDGF alpha associated protein 1	1
+PDZ binding kinase	1
+PHD finger protein 14	1
+PKR protein activator	1
+PML	1
+PRP38 pre-mRNA processing factor 38 domain containing B	2
+PRP4 pre-mRNA processing factor 4 homolog B	3
+PSD3	1
+PTK2B protein tyrosine kinase 2 beta	1
+PUR alpha	1
+Palladin	1
+Peptidyl prolyl isomerase G	2
+Pericentriolar material 1	1
+Periodic tryptophan protein 1 homolog	1
+Periphilin 1	3
+Phosducin like	2
+Phosphatase and actin regulator 4	1
+Phosphate cytidylyltransferase 1 choline alpha isoform	1
+Phosphatidylinositol-4-phosphate 5-kinase type II beta	1
+Phosphoglycerate kinase 1	1
+Phospholipase C, beta 3	1
+Phospholipase C, gamma 1	1
+Pinin	3
+Plasma membrane Ca(2+) ATPase type 4	1
+Pleckstrin homology domain containing, family F (with FYVE domain) member 2	1
+Pleckstrin homology domain interacting protein	2
+Plectin 1	2
+Poly(rC) binding protein 1	2
+Processing of precursor 5, ribonuclease P/MRP subunit	1
+Progesterone receptor membrane component 1	1
+Programmed cell death 4	1
+Protein FAM117B	8
+Protein arginine N methyltransferase 3	1
+Protein kinase C binding protein 1	1
+Protein kinase C, eta	1
+Protein kinase C, theta	1
+Protein kinase D2	2
+Protein kinase serine/arginine specific 2	1
+Protein kinase substrate MK2S4	6
+Protein kinase, cAMP dependent, regulatory type II, alpha	1
+Protein phosphatase 1, regulatory subunit 11	1
+Protein phosphatase inhibitor 2	1
+Protein tyrosine phosphatase receptor type C	1
+Pseudouridine synthase 1	1
+Pumilio2	2
+Purine rich element binding protein B	1
+R3H domain protein 1	1
+RA regulated nuclear matrix associated protein	1
+RAD23B	1
+RAD54-like 2	1
+RAF1	2
+RALBP1	2
+RAN binding protein 9	4
+RAP1 GTPase activating protein 1	1
+RAS family, member RAB11B	1
+RAS guanyl nucleotide releasing protein 1	1
+RAS guanyl nucleotide releasing protein 2	2
+RBMX	1
+RING finger protein 29	1
+RIO kinase 2	1
+RNA binding motif protein 10	1
+RNA binding motif protein 13	2
+RNA binding motif protein 14	3
+RNA binding motif protein 15	2
+RNA binding motif protein 34	1
+RNA binding motif protein 7	1
+RNA binding motif protein 8A	1
+RNA binding protein 4	1
+RNA polymerase I transcription factor RRN3	1
+RNA polymerase IIA 220 kd subunit	2
+RNA-binding protein Raly	5
+Rab-coupling protein	1
+Rabaptin 5	1
+Rabphilin 3A	1
+Ran binding protein 2	1
+Ran binding protein 3	3
+Rap guanine nucleotide exchange factor GEF 6	1
+Rap1 interacting factor 1	1
+Raptor	1
+Ras-GTPase activating protein binding protein 2	2
+Regulator of G protein signaling 14	1
+Regulator of nonsense transcripts 1	1
+Regulatory factor X 3 influences HLA class II expression	1
+Renal cell carcinoma, papillary 1	1
+Replication factor C1	5
+Retinoblastoma 1	6
+Retinoblastoma associated factor 600	1
+Retinoblastoma binding protein 6	3
+Rho GTPase activating protein 15	1
+Rho GTPase activating protein 30	2
+Rho guanine nucleotide exchange factor 1	1
+Rho guanine nucleotide exchange factor 2	7
+Rho guanine nucleotide exchange factor 38	1
+Rho guanine nucleotide exchange factor 6	5
+Rho guanine nucleotide exchange factor 7	1
+Rho specific guanine nucleotide exchange factor p114	3
+Ribosomal RNA processing 12 homolog	1
+Ribosomal protein L31	1
+Ribosomal protein S3	1
+Ribosomal protein S3a	1
+Ribosomal protein S6	2
+Ribosomal protein S6 kinase, 70kDa, polypeptide 1	1
+Ribosomal protein, large, P0	1
+Ribosomal protein, large, P1	1
+Rictor	1
+SAFB-like, transcription modulator	2
+SDAD1	1
+SDS3	1
+SERPINE1 mRNA binding protein 1	1
+SFRS protein kinase 1	1
+SGTB	1
+SH3 protein expressed in lymphocytes	1
+SIN3A	3
+SIT	2
+SMAD4 interacting transcription factor	1
+SMAP	1
+SMARCA2	1
+SMARCA4	1
+SMARCAD1	3
+SMARCC1	2
+SMC4 structural maintenance of chromosomes 4	4
+SON DNA binding protein	2
+SP100	1
+SP110 nuclear body protein	2
+SPAK	2
+SRP20	1
+SRP72	2
+SRRM2	29
+SRp46	1
+STAT3	4
+STAT4	1
+STE20 like kinase MST1	1
+Sarcoma antigen NY-SAR-91	1
+Scaffold Attachment Factor B	3
+Scribble	1
+Second step splicing factor 1	2
+Secreted frizzled related protein 2	1
+Senescence downregulated leo1 like	1
+Septin 2	1
+Septin 5	1
+Serine arginine repetitive matrix protein 1	10
+Serine arginine rich pre-mRNA splicing factor SR-A1	2
+Serine hydrolase-like protein 2	1
+Serine threonine protein kinase N	1
+Serine/Threonine protein kinase 10	2
+Serine/threonine protein kinase 3	2
+Serine/threonine-protein kinase B-raf	1
+Sex comb on midleg like 2	1
+Sialophorin	7
+Similar to KIAA0592 protein	1
+Single stranded DNA binding protein 2	1
+Single stranded DNA binding protein 3	3
+Skip	1
+Smad nuclear-interacting protein 1	1
+Solute carrier family 16 (monocarboxylic acid transporters), member 1	1
+Solute carrier family 25, member 46	1
+Solute carrier family 35 member C2	1
+Solute carrier family 38 member 1	1
+Solute carrier family 7, member 6 opposite strand	1
+Solute carrier family 9, isoform A3, regulatory factor 1	2
+Source of immunodominant MHC associated peptides	1
+Spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	2
+Sperm associated antigen 9	2
+Spliceosome associated protein 145	2
+Splicing factor 1	1
+Splicing factor 3B subunit 1	1
+Splicing factor HCC1	4
+Splicing factor YT521-B	1
+Splicing factor, 45 kd	1
+Splicing factor, arginine/serine rich 11	2
+Splicing factor, arginine/serine rich 2	1
+Splicing factor, arginine/serine-rich 2, interacting protein	1
+Splicing factor, arginine/serine-rich 4	1
+Splicing factor, arginine/serine-rich 7,35kDa	1
+Stathmin 1	4
+Striatin, calmodulin binding protein 3	1
+Stromal interaction molecule 1	1
+Structure specific recognition protein 1	3
+Symplekin	2
+Synaptojanin 2	1
+Synembryn	1
+T box brain 2	1
+TAF15	1
+TAF9 RNA polymerase II	1
+TANC	1
+TATSF1	8
+TBC1 domain family member 15 (Fragment)	2
+TBC1 domain family member 4	1
+TBC1 domain family member 5	1
+TERF2IP	1
+TIM1	1
+TLOC1	1
+TNFAIP3 interacting protein 1	1
+TOM1	1
+TORC3	3
+TRA2A	2
+TRAF3-interacting JNK-activating modulator	1
+TRAP150	5
+TSC22 domain family 4	1
+Target of EGR1	1
+Taste receptor type 2 member 7	1
+Taxilin	1
+Thymopoietin	2
+Thyroid hormone receptor interactor 12	1
+Topoisomerase DNA II, beta	3
+Transcription elongation factor A, 1	1
+Transcription factor 12	2
+Transcription factor 2B related factor	1
+Transcription factor 3	2
+Transcription factor E2-alpha	1
+Transcription factor IIF, alpha subunit	1
+Transcription factor YY1	1
+Transcriptional intermediary factor 1 beta	1
+Transcriptional intermediary factor 1 gamma	1
+Transducer of regulated cAMP response element binding protein 2	1
+Transducin like enhancer of split 3	3
+Translocated promoter region	3
+Transmembrane protein 35B	1
+Treacle	5
+Trinucleotide repeat containing protein 15	2
+Trinucleotide repeat-containing gene 6C protein	1
+Triosephosphate isomerase 1	1
+Tuftelin interacting protein 11	3
+Tumor protein p53 binding protein 1	1
+Tumor rejection antigen 1	1
+U2-associated SR140 protein	1
+USP6 N terminal like	1
+Ubiquitin carboxyl terminal hydrolase 4	1
+Ubiquitin specific protease 14	2
+Ubiquitin specific protease 15	3
+Ubiquitin-associated protein 2-like	1
+Unactive progesterone receptor 23KD	1
+Unc 51 like kinase 1	1
+Uncharacterized membrane protein C19orf24	1
+Unconventional myosin-XVIIIa (Fragment)	1
+Upstream regulatory element binding protein 1	4
+Uracil DNA glycosylase	2
+VAV1	1
+Valosin containing protein	1
+Vanilloid receptor like 3	1
+Vimentin	3
+Vinexin beta	1
+WASP interacting protein	1
+WD repeat domain 44	1
+WD repeat domain 50	1
+WD repeat domain 70	1
+WW domain containing adaptor with coiled coil	1
+Werner helicase interacting protein 1	1
+Wilms tumor 1 associated protein	1
+XRCC1	2
+Xeroderma pigmentosum group C complementing protein	1
+YB-1	3
+Zinc and ring finger 2	1
+Zinc finger CCCH-type antiviral protein 1	1
+Zinc finger CCCH-type containing 11A	1
+Zinc finger CCCH-type containing 13	2
+Zinc finger antiviral protein	1
+Zinc finger protein 265	2
+Zinc finger protein 295	1
+Zinc finger protein 363	1
+Zinc finger protein 740	1
+Zinc finger protein hRit1 alph	2
+Zinc finger protein, subfamily 1A, member 2	3
+Zinc finger, AN1-type domain 2B	1
+Zinc finger, FYVE domain containing 19	1
+Znf HX	1
+Zyxin	1
+chromosome 19 open reading frame 7	1
+dUTP pyrophosphatase	1
+p21 activated kinase 4	1
+septin 1	3

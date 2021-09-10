@@ -1,0 +1,49 @@
+protein name	count
+ABL interactor 1	1
+ABL interactor 2	1
+ATP1A1	1
+Actin gamma 1	1
+Aldolase 3	1
+CBL	1
+CD7	1
+CblB	1
+Complement receptor 2	1
+Coronin 1C	1
+Cortactin	1
+Decapping enzyme hDcp1b	1
+Docking protein 1	1
+Docking protein 2, 56kDa	1
+Elongation protein 3	1
+Engulfment and cell motility 2	1
+Enolase 1	1
+Erbin	1
+GIT1	1
+GRB2 associated binding protein 3	1
+GRID	1
+Grb4	1
+HP1-BP74	1
+ITK	1
+KIAA0317	1
+Lck	2
+Linker for activation of T cells	1
+Lymphocyte antigen 9	1
+NTBA	3
+PAG	2
+PDZ and LIM domain 1	1
+PLC, gamma 2	4
+PTK2B protein tyrosine kinase 2 beta	1
+Phospholipase C, gamma 1	10
+Protein kinase C delta	3
+Protein tyrosine kinase TXK	1
+Rho GTPase-activating protein 27	1
+SIT	1
+Signal recognition particle 14 kDa	1
+T cell antigen receptor, zeta	1
+Tropomyosin 3	1
+Tumor necrosis factor receptor superfamily, member 9	1
+UNC112 related protein 2	1
+Uridine 5`-monophosphate synthase	1
+VAV3	1
+WD repeat protein 1	1
+Wiskott-aldrich syndrome protein	1
+ZAP70	1

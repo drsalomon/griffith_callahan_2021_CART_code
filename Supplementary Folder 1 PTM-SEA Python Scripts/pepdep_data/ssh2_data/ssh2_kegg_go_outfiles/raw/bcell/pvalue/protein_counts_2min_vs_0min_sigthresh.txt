@@ -1,0 +1,21 @@
+protein name	count
+ALS2CR7	1
+ATP citrate lyase	1
+Actin gamma 1	1
+CDC2	2
+CDC37	1
+Chaperonin containing T complex polypeptide 1, subunit 7	1
+GDP dissociation inhibitor 2	1
+Glyoxylate reductase	1
+Heat shock 60 KD protein 1 (chaperonin)	1
+Heterogeneous nuclear ribonucleoprotein M	1
+Junction adhesion molecule 1	1
+Lyn	1
+PAG	1
+Pentatricopeptide repeat domain 3	1
+Prolyl endopeptidase	1
+SET protein	1
+SHIP1	1
+Tensin 3	1
+UNQ5783	1
+Zinc finger protein A20	1

@@ -1,0 +1,105 @@
+protein name	count
+ATP binding cassette 50	1
+Acetyl-CoA carboxylase alpha	1
+Anion exchange protein (Fragment)	1
+B-lymphocyte cell-surface antigen B1	1
+Branched chain keto acid dehydrogenase E1, alpha polypeptide	1
+C14orf171 protein	1
+C14orf35 protein	1
+C6orf111 protein	1
+CASPR4	1
+CDC42 effector protein 4	1
+Chromobox homolog 3	1
+Chromodomain helicase DNA binding protein 4	1
+Chromosome 14 open reading frame 43	1
+Chromosome 9 open reading frame 86	1
+Chromosome condensation protein G	1
+Coiled-coil domain containing 98	1
+Coronin 7	1
+Cyclic nucleotide gated channel beta 1	1
+DDX46	1
+DNA methyltransferase 1	1
+DNA topoisomerase II alpha	1
+Death associated transcription factor 1	1
+Dedicator of cytokinesis 11	1
+Delangin	1
+Dynein light chain A	1
+EMK1	1
+Enolase 1	1
+Eukaryotic translation initiation factor 4B	2
+Fetal Alzheimer antigen	1
+GIT1	1
+Glucocorticoid induced transcript 1	1
+HIP55	1
+HLA-A	1
+HMG CoA reductase	1
+HSP90B	1
+Heterogeneous nuclear ribonucleoprotein C	1
+High mobility group AT hook 1	1
+IK factor	1
+IMP dehydrogenase 2	1
+IWS1 homolog	1
+Ig alpha	1
+Interferon induced protein 35	1
+KIAA1949	1
+Karyopherin alpha3	1
+LARP	1
+Leucine-rich repeat flightless-interacting protein 1	1
+Lymphocyte specific protein	4
+MAP kinase activating death domain protein	1
+MMRP19	1
+Matrin 3	1
+Microtubule associated protein 4	1
+Minor histocompatibility antigen HA1	1
+Myosin regulatory light chain MRLC2	2
+N-myristoyl transferase 1	1
+NUP133	1
+Nuclear ubiquitous casein kinase and cyclin dependent kinase substrate	3
+Nucleolin	4
+Nucleophosmin 1	1
+OTUBAIN 1	2
+P160	1
+PRP38 pre-mRNA processing factor 38 domain containing B	1
+PTK2B protein tyrosine kinase 2 beta	1
+Polymyositis/scleroderma autoantigen 1	1
+Potassium channel tetramerisation domain containing 15	1
+Proteasome 26S subunit, non ATPase, 2	1
+Protein kinase C delta	1
+Protein kinase substrate MK2S4	1
+Protein kinase, lysine deficient 1	1
+RNA polymerase III subunit 5	1
+Raft linking protein	1
+RalA binding protein 1	1
+Rho GTPase activating protein 17	1
+Rho GTPase activating protein 30	1
+Ribosomal protein L17	1
+SAFB-like, transcription modulator	1
+SERPINE1 mRNA binding protein 1	1
+SH3 protein expressed in lymphocytes	1
+SRRM2	3
+Serine arginine repetitive matrix protein 1	3
+Shaw related voltage gated potassium channel protein 4	1
+Solute carrier family 4, member 7	1
+Sperm associated antigen 9	1
+Spliceosome associated protein 145	1
+Splicing factor, arginine/serine rich 2	1
+Splicing factor, arginine/serine-rich 6	1
+Stathmin 1	2
+Step II splicing factor SLU7	1
+Synaptosomal associated protein, 23 kd	1
+TBC1 domain family member 2B	1
+TRAP150	1
+Transcriptional intermediary factor 1 beta	1
+Transgelin 2	1
+Treacle	1
+Trinucleotide repeat containing protein 15	1
+Tumor protein D52 like 2	1
+Tumor protein p53 binding protein 1	1
+Ubiquitin specific protease 10	1
+Ubiquitin specific protease 24	1
+YTH domain containing 2	2
+Zinc finger protein 316	1
+Zinc finger protein 318	2
+Zinc finger protein, subfamily 1A, member 1	1
+chromosome 19 open reading frame 7	1
+eIF-2B epsilon	1

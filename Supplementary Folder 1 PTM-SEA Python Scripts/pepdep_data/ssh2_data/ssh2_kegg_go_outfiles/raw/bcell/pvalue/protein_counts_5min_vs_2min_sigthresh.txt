@@ -1,0 +1,11 @@
+protein name	count
+ALS2CR7	1
+CD84	1
+CDC2	1
+CDV3 homolog	2
+Centaurin delta 2	1
+Docking protein 3	1
+PAG	3
+Protein THEMIS2	1
+Protein tyrosine phosphatase, receptor type, alpha	1
+RAB GTPase activating protein 1 like	1

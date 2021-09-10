@@ -1,0 +1,15 @@
+protein name	count
+B-lymphocyte cell-surface antigen B1	1
+C20orf6 protein	1
+Chromosome 9 open reading frame 86	2
+Eukaryotic translation initiation factor 4B	1
+Fatty acid synthase	1
+High mobility group AT hook 1	1
+LARP	1
+Lymphocyte specific protein	3
+Myosin regulatory light chain MRLC2	1
+NFAT1	1
+Nuclear ubiquitous casein kinase and cyclin dependent kinase substrate	1
+PEPP2	1
+SH3 protein expressed in lymphocytes	1
+chromosome 19 open reading frame 7	1

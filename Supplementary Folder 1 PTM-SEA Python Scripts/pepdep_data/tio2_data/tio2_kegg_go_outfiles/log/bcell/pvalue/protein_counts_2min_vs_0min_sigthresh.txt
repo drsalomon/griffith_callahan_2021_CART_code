@@ -1,0 +1,89 @@
+protein name	count
+5`-3` exoribonuclease 2	1
+ADP ribosylation factor guanine nucleotide exchange factor 2	1
+AKT1 substrate 1	1
+Anaphase promoting complex, subunit 1	1
+Apoptosis antagonizing transcription factor	1
+B-lymphocyte cell-surface antigen B1	3
+Beta adaptin 3A	1
+Brefeldin A-inhibited guanine nucleotide-exchange protein 2	1
+C11orf23 protein	1
+C20orf6 protein	1
+C6orf111 protein	1
+C9orf55 protein	1
+CASPR4	1
+Chromosome 12 open reading frame 43	1
+Chromosome 9 open reading frame 86	2
+Chromosome condensation protein G	1
+Conserved nuclear protein NHN1	2
+Coronin 7	1
+Delangin	1
+Dynein light chain A	1
+EIF4G2	1
+ERCC5	1
+Eukaryotic translation initiation factor 4B	1
+Eukaryotic translation initiation factor 4E nuclear import factor 1	1
+FNBP4	1
+Family with sequence similarity 54, member B	1
+Fas receptor	1
+Fatty acid synthase	1
+Glutamyl-prolyl-tRNA synthetase	1
+HSHIN1	1
+High mobility group AT hook 1	2
+Hsc70 interacting protein	1
+IMP dehydrogenase 2	1
+Ig alpha	1
+Isoform 2 of Uncharacterized protein C15orf39	1
+Isoform 4 of Interleukin enhancer-binding factor 3	1
+KIAA0652 gene product	1
+LARP	1
+Lamin B receptor	1
+Leucine-rich repeat flightless-interacting protein 1	1
+Lymphocyte specific protein	4
+Lyn	2
+MAP kinase activating death domain protein	1
+MARCKS like protein	2
+Microtubule associated protein 4	1
+Myosin regulatory light chain MRLC2	1
+NACSIN	1
+NFAT1	1
+NOP56	1
+Nectin 1	1
+Nuclear factor related to kappa B binding protein	1
+Nuclear ubiquitous casein kinase and cyclin dependent kinase substrate	1
+Nucleophosmin 1	1
+OTUBAIN 1	1
+PEPP2	1
+PEST containing nuclear protein	1
+PRP38 pre-mRNA processing factor 38 domain containing B	1
+PTK2B protein tyrosine kinase 2 beta	1
+Phosphofurin acidic cluster sorting protein 1	1
+Potassium channel, calcium activated, intermediate/small conductance subfamily N, member 3	1
+Programmed cell death 5	1
+Protein kinase C delta	1
+Ribosomal phosphoprotein large P2	1
+Ribosomal protein L14	1
+SAFB-like, transcription modulator	1
+SH3 protein expressed in lymphocytes	2
+SRRM2	1
+Serine arginine repetitive matrix protein 1	1
+Serine/Threonine protein kinase 10	1
+Shaw related voltage gated potassium channel protein 4	1
+Sno	1
+Sphingosine-1-phosphate phosphatase 1	1
+Splicing factor 3B subunit 1	1
+Stathmin 1	1
+Synaptosomal associated protein, 23 kd	1
+Syntaxin 7	1
+Syntrophin beta 2	1
+TANC	1
+TNFAIP3 interacting protein 2	1
+Tight junction protein 3	1
+Topoisomerase DNA II, beta	3
+Transcriptional intermediary factor 1 beta	1
+Tumor protein p53 binding protein 1	1
+Ubiquitin specific protease 10	1
+Zinc finger protein 183	2
+Zinc finger protein 40	1
+c-Mpl binding protein	1
+chromosome 19 open reading frame 7	1

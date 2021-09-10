@@ -1,0 +1,41 @@
+protein name	count
+ABL interactor 1	1
+ABL interactor 2	1
+ARP2/3 protein complex subunit p21	1
+Aldolase 3	1
+BLK	1
+CBL	1
+CD28	2
+CblB	1
+Cortactin	1
+Cyclin dependent kinase 5	1
+Dedicator of cytokinesis 2	1
+Docking protein 1	2
+Docking protein 2, 56kDa	1
+ERK1	3
+ERK2	2
+Engulfment and cell motility 2	1
+Eukaryotic translation elongation factor 2	1
+FYB	3
+Grb4	1
+ITK	1
+MAPK14	2
+Myotubularin related protein 10	1
+NCK1	1
+NTBA	1
+PI 3 kinase, regulatory subunit beta	1
+PLC, gamma 2	1
+PTK2B protein tyrosine kinase 2 beta	2
+Phospholipase C like 2	1
+Phospholipase C, gamma 1	5
+Protein tyrosine phosphatase, non-receptor type 11	1
+Protein tyrosine phosphatase, non-receptor type 6	1
+Pyruvate kinase 3	1
+SIT	2
+SRp30c	1
+T cell antigen receptor, zeta	4
+Tyrosine-protein kinase PRAG1	1
+VAV3	1
+Wiskott-Aldrich syndrome-like	1
+Wiskott-aldrich syndrome protein	1
+ZAP70	3

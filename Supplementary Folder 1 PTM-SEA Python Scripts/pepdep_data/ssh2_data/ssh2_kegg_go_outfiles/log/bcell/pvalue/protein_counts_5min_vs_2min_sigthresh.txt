@@ -1,0 +1,20 @@
+protein name	count
+ALS2CR7	1
+Actin gamma 1	1
+Acyl CoA synthetase long chain family member 4	1
+CD84	1
+CDC2	1
+CDV3 homolog	2
+Centaurin delta 2	1
+Docking protein 3	1
+Eukaryotic translation initiation factor 2A	1
+Janus kinase 2	1
+Myosin heavy chain 9, nonmuscle	1
+NTBA	1
+Odin	1
+PAG	3
+Protein THEMIS2	1
+Protein tyrosine phosphatase, receptor type, alpha	1
+SHC (Src homology 2 domain containing) transforming protein 1	1
+Signaling lymphocytic activation molecule	1
+Tripartite motif containing protein 9	1

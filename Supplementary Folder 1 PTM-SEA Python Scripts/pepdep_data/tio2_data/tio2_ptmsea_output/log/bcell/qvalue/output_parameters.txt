@@ -1,0 +1,13 @@
+## 2021-09-02 16:03:09
+input gct:	/windir/c/Users/redas/desktop/jupyter_directory/salomon_lab_folder/car_t_project/pepdep_data/tio2_data/ptmsea_output/log/bcell/qvalue/qvalue_data.gct
+gene.set.database:	/windir/c/Users/redas/desktop/jupyter_directory/salomon_lab_folder/car_t_project/database/ptm.sig.db.all.flanking.human.v1.9.0.gmt
+sample.norm.type:	none
+weight:	1
+statistic:	area.under.RES
+output.score.type	NES
+nperm:	10000
+global.fdr:	TRUE
+min.overlap:	3
+correl.type:	z.score
+export.signat.gct:	FALSE
+run.parallel:	TRUE

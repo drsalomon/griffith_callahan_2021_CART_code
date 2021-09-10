@@ -1,0 +1,37 @@
+protein name	count
+ACINUS	1
+Activating transcription factor 2	1
+Androgen induced proliferation inhibitor	1
+BCL2 associated transcription factor 1	1
+Basic leucine zipper and W2 domains 2	1
+C14orf133 protein	2
+Chromosome condensation 1	1
+Cysteine string protein	1
+Epsin 1	1
+Eukaryotic translation initiation factor 5B	1
+GTPase activating Rap/RanGAP domain like 4	1
+MARCKS like protein	1
+MCM2 minichromosome maintenance deficient 2, mitotin	1
+Matrin 3	1
+NIPA	1
+Nucleolin	1
+Osteoclast stimulating factor 1	1
+Palladin	1
+Phospholipase C, gamma 1	1
+Pumilio2	1
+RNA binding motif protein 34	1
+Rho guanine nucleotide exchange factor 2	2
+SMARCC1	1
+SRP72	1
+Serine arginine repetitive matrix protein 1	1
+Serine/threonine protein kinase 3	1
+Stathmin 1	1
+TBC1 domain family member 5	1
+Transcription factor 12	1
+Transcriptional intermediary factor 1 beta	1
+Twist neighbor	1
+Upstream regulatory element binding protein 1	1
+Valosin containing protein	1
+ZNF635	1
+Zinc finger protein 22	1
+Zuotin related factor 1	1

@@ -1,0 +1,21 @@
+protein name	count
+B-lymphocyte cell-surface antigen B1	1
+DDX46	1
+DNA topoisomerase II alpha	1
+EMK1	1
+HSP90B	1
+IWS1 homolog	1
+Ig alpha	1
+LARP	1
+Leucine-rich repeat flightless-interacting protein 1	1
+Lymphocyte specific protein	2
+Myosin regulatory light chain MRLC2	2
+Nuclear ubiquitous casein kinase and cyclin dependent kinase substrate	1
+PTK2B protein tyrosine kinase 2 beta	1
+Rho GTPase activating protein 17	1
+Spliceosome associated protein 145	1
+Stathmin 1	1
+Transcriptional intermediary factor 1 beta	1
+Tumor protein D52 like 2	1
+Ubiquitin specific protease 10	1
+Zinc finger protein, subfamily 1A, member 1	1

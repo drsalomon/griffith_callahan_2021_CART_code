@@ -1,0 +1,5 @@
+protein name	count
+ALS2CR7	1
+CDC2	1
+Chaperonin containing T complex polypeptide 1, subunit 7	1
+PAG	1

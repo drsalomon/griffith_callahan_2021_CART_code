@@ -1,0 +1,7 @@
+protein name	count
+CD84	1
+CDC2	1
+CDV3 homolog	1
+Docking protein 3	1
+PAG	1
+Protein tyrosine phosphatase, receptor type, alpha	1

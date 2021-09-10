@@ -1,0 +1,35 @@
+protein name	count
+ACINUS	2
+Activating transcription factor 2	1
+BCL2 associated transcription factor 1	1
+Basic leucine zipper and W2 domains 2	1
+C14orf133 protein	2
+Chromosome condensation 1	1
+Cysteine string protein	1
+GTPase activating Rap/RanGAP domain like 4	1
+IQGAP2	1
+Lymphocyte cytosolic protein 1	1
+MCM2 minichromosome maintenance deficient 2, mitotin	1
+Matrin 3	1
+NIPA	1
+Nucleolin	1
+Nucleoporin 50kDa	1
+Osteoclast stimulating factor 1	1
+Palladin	1
+Programmed cell death 4	1
+Pumilio2	1
+RNA binding motif protein 34	1
+Replication factor C1	1
+Rho guanine nucleotide exchange factor 2	1
+SGTB	1
+SH2 B homolog	1
+SRP72	1
+Stromal interaction molecule 1	1
+TBC1 domain family member 4	1
+TBC1 domain family member 5	1
+Transcription factor 12	2
+Transcriptional intermediary factor 1 beta	1
+Ubiquitin associatedand SH3 domain containing protein A	1
+Upstream regulatory element binding protein 1	1
+ZNF635	1
+Zuotin related factor 1	1

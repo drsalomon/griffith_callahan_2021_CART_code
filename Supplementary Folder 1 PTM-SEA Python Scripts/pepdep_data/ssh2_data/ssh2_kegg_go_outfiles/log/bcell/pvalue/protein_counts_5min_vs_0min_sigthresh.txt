@@ -1,0 +1,79 @@
+protein name	count
+ALS2CR7	1
+ATP citrate lyase	1
+Actin gamma 1	1
+Acyl CoA synthetase long chain family member 4	1
+Annexin VI	1
+Bruton`s tyrosine kinase	1
+CD37	1
+CD84	1
+CDC2	1
+CDC37	1
+CDV3 homolog	1
+Centaurin delta 2	1
+Chaperonin containing T complex polypeptide 1, subunit 7	1
+Clathrin, heavy polypeptide	1
+Cytoplasmic FMR1 interacting protein 1	1
+DNA methyltransferase 1	1
+Diazepam binding inhibitor	1
+Docking protein 3	1
+Dynamitin	1
+Elongation factor 1 alpha 1	1
+Emerin	1
+Eukaryotic translation initiation factor 2A	1
+Ezrin	1
+FK506 binding protein 4	1
+Flightless 1	1
+Fumarase	1
+GDP dissociation inhibitor 2	1
+Glutamate oxaloacetate transaminase, mitochondrial	1
+Glyoxylate reductase	1
+Golgi phosphoprotein 4	1
+HBS1L	1
+HGAL	1
+HSP90A	1
+HSP90B	1
+Heat shock 10 KD protein	1
+Heat shock 70 kDa protein 8	1
+Helicase ATP binding 1	1
+Heterogeneous nuclear ribonucleoprotein M	1
+Hypothetical protein FLJ10769	1
+Ig alpha	1
+Interferon gamma receptor 1	1
+Janus kinase 2	1
+Junction adhesion molecule 1	1
+Lupus brain antigen 1	1
+Lymphocyte cytosolic protein 1	1
+Lyn	2
+Malate dehydrogenase mitochondrial	1
+Myosin heavy chain 9, nonmuscle	1
+NTBA	1
+Odin	1
+PAG	5
+PTPRF interacting protein binding protein 1	1
+Pentatricopeptide repeat domain 3	1
+Phosphatidylinositol 3 kinase regulatory subunit, alpha	2
+Phosphatidylinositol 3 kinase, catalytic subunit, delta	1
+Prolyl endopeptidase	1
+Proteasome 26S subunit, non-ATPase, 14	1
+Protein THEMIS2	1
+Protein kinase C delta	1
+Protein tyrosine phosphatase, receptor type, alpha	1
+RAB7	1
+Raft linking protein	1
+Ribosomal protein L3	1
+Ribosomal protein S10	1
+SET protein	1
+SHC (Src homology 2 domain containing) transforming protein 1	1
+SHIP1	2
+SHIP2	1
+SYK	1
+Signaling lymphocytic activation molecule	1
+T Complex 1	1
+Tensin 3	1
+Tripartite motif containing protein 9	1
+UNQ5783	1
+VAV2	1
+Vigilin	1
+Zinc finger protein 147	1
+Zinc finger protein, subfamily 1A, member 3	1
