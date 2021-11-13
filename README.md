@@ -26,10 +26,6 @@ List of unique peptides identified from pTyr enrichment after coculture of CD19-
 
 List of unique peptides identified from TiO_2 phosphopeptide enrichment after coculture of CD19-CAR T cells and Raji B cells. For each peptide, the SIC peak areas for each replicate measurment and time point, **q**-values, accession numbers and KEGG/GO annotations are provided. Phosphopeptide assignments were filtered by a MOWSE score greater than 20, forward hits only, and assigned an Ascore
 
-## Supplementary Table 6: Lck Western Quantification
-
-Raw signal intensity measurements from the anit-Lck and Total Protein Western blots and corresponding statistics. Signal intensities were measured using the LiCor Image Studio system and exported to Microsoft Excel. Statistical calculations were performed in Python 3 using the script generate\_lck\_abundance\_graph.py (See Supplementary Folder 1) and exported to Microsoft Excel. The two Excel files were combined to create this table.
-
 ## Supplementary Figures
 
 The Supplementary Figures PDF contains all Supplementary Figures and captions for the Supplementary Tables.
