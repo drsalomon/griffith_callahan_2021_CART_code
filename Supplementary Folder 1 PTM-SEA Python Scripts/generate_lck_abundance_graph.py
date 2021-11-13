@@ -26,7 +26,7 @@ and generates Supplementary Figure 11.
 import pandas as pd
 import matplotlib.pyplot as plt
 from py_scripts.helpers.homebrew_stats import mean, standard_deviation, pairwise_t
-
+plt.rcParams["font.family"] = "sans-serif"
 #
 #
 ####################################################################################################
@@ -82,11 +82,12 @@ def main():
     signal = list(file["Unnamed: 3"].to_numpy())
     tps = signal[1:17]
     lck = signal[20:]
-    normalized = [lck[i] / tps[i] for i in range(len(tps))]
+    correction_factor = [item / max(tps) for item in tps]
+    normalized = [lck[i] / correction_factor[i] for i in range(len(tps))]
     samples = [normalized[i*4:(i+1)*4] for i in range(4)]
     # The last group of data is just noise, so we omit it.
     del samples[-1]
-    samples = [("JE6",samples[0]), ("CD19-CAR T cells",samples[1]), ("CD19$^{HI}$ Raji B cells",samples[2])]
+    samples = [("JE6",samples[0]), ("CD19-CAR T cells",samples[1]), ("Raji B cells",samples[2])]
     lck_ttest = pairwise_t(*samples,
                             t_type = "s")
     print(lck_ttest)
@@ -99,27 +100,29 @@ def main():
     stds = [standard_deviation(item[1]) for item in samples]
     mean_up = [means[i] + stds[i] for i in range(len(means))]
     mean_down = [means[i] - stds[i] for i in range(len(means))]
+    colours = ["blue", "cyan", "hotpink"]
     fig, ax = plt.subplots()
     for i in range(3):
-        ax.scatter(xs[i], samples[i][1], edgecolors = "black")
+        ax.scatter(xs[i], sorted(samples[i][1],reverse = True), color = colours[i], edgecolors = "black")
         add_errorbar(ax, centers[i], means[i], stds[i])
-    ax.set_ylim(0,.23)
-    ax.plot([centers[0]+0.005, centers[0]+0.005], [maxs[0]+0.018, maxs[0]+0.03], color = "black")
-    ax.plot([centers[1]-0.005, centers[1]-0.005], [maxs[1]+0.018, maxs[0]+0.03], color = "black")
-    ax.plot([centers[0]+0.005, centers[1]-0.005], [maxs[0]+0.03,maxs[0]+0.03], color = "black")
-    ax.plot([centers[0]-0.005, centers[0]-0.005], [maxs[0]+0.018, maxs[0]+0.05], color = "black")
-    ax.plot([centers[2]+0.005, centers[2]+0.005], [maxs[2] + 0.018, maxs[0] + 0.05], color = "black")
-    ax.plot([centers[0]-0.005, centers[2]+0.005], [maxs[0] + 0.05, maxs[0] + 0.05], color = "black")
-    ax.plot([centers[1]+0.005, centers[1]+0.005], [maxs[1] + 0.018, maxs[1] + 0.03], color = "black")
-    ax.plot([centers[2]-0.005, centers[2] - 0.005], [maxs[2] +0.018, maxs[1] + 0.03], color = "black")
-    ax.plot([centers[1] + 0.005, centers[2] - 0.005], [maxs[1] + 0.03, maxs[1] + 0.03], color = "black")
-    ax.text((centers[0] + centers[1])/2, maxs[0] + 0.032, sigs[0])
-    ax.text((centers[0] + centers[2])/2, maxs[0] + 0.052, sigs[1])
-    ax.text((centers[1] + centers[2])/2, maxs[1] + 0.032, sigs[2])
-    ax.set_title("Lck Abundance")
-    ax.set_ylabel("Lck signal / Total Protein signal")
+    #ax.set_ylim(0,.23)
+    ax.plot([centers[1], centers[1]], [maxs[1]+180000, maxs[0]+400000], color = "cyan", linestyle = ":", alpha = 0.5)
+    ax.plot([centers[0]+0.005, centers[1]-0.005], [maxs[0]+400000,maxs[0]+400000], color = "black", alpha = 0.5)
+    ax.plot([centers[0], centers[0]], [maxs[0]+180000, maxs[0]+700000], color = "blue", linestyle = ":", alpha = 0.5)
+    ax.plot([centers[2], centers[2]], [maxs[2] + 180000, maxs[0] + 700000], color = "hotpink", linestyle = ":", alpha = 0.5)
+    ax.plot([centers[0], centers[2]], [maxs[0] + 700000, maxs[0] + 700000], color = "black", alpha = 0.5)
+#    ax.plot([centers[1]+0.005, centers[1]+0.005], [maxs[1] + 700000, maxs[1] + 700000], color = "grey", linestyle = ":", alpha = 0.5)
+#    ax.plot([centers[2]-0.005, centers[2] - 0.005], [maxs[2] +180000, maxs[1] + 400000], color = "grey", linestyle = ":", alpha = 0.5)
+    ax.plot([centers[1], centers[2]], [maxs[1] + 400000, maxs[1] + 400000], color = "black", alpha = 0.5)
+    ax.text((centers[0] + centers[1])/2, maxs[0] + 420000, sigs[0], font = "Arial", fontsize = 10, fontweight = "bold", ha = "center")
+    ax.text((centers[0] + centers[2])/2, maxs[0] + 700000, sigs[1], font = "Arial", fontsize = 10, fontweight = "bold", ha = "center")
+    ax.text((centers[1] + centers[2])/2, maxs[1] + 400000, sigs[2], font = "Arial", fontsize = 10, fontweight = "bold", ha = "center")
+    ax.set_title("Lck Abundance", font = "Arial", fontsize = 16, fontweight = "bold")
+    ax.set_ylabel("Corrected Lck Signal (a.u.)", font = "Arial", fontsize = 14, fontweight = "bold")
+    ax.set_yticks([i*1000000 for i in range(8)])
+    ax.set_yticklabels([f"{i}M" for i in range(8)], font = "Arial", fontsize = 12, fontweight = "bold")
     ax.set_xticks(centers)
-    ax.set_xticklabels([samples[0][0], samples[1][0], samples[2][0]])#, rotation = 0, ha = "center", rotation_mode = "anchor")
+    ax.set_xticklabels([samples[0][0], samples[1][0], samples[2][0]], font = "Arial", fontsize = 12, fontweight = "bold")#, rotation = 0, ha = "center", rotation_mode = "anchor")
     plt.savefig("lck_abundance.pdf", bbox_inches = "tight")
     plt.show()
     return None
