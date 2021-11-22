@@ -75,10 +75,13 @@ def make_sigstrings(pvals, symbol = "*"):
 #
 #  main() function
 
+import os
+
 def main():
     """
     """
-    file = pd.read_excel("Supplementary Table 6 Lck Western Quantification.xls")
+    print(os.getcwd())
+    file = pd.read_excel("western_blot_data/Supplementary Folder 1 File E 6 Lck Western Quantification.xls")
     signal = list(file["Unnamed: 3"].to_numpy())
     tps = signal[1:17]
     lck = signal[20:]
@@ -91,13 +94,13 @@ def main():
     lck_ttest = pairwise_t(*samples,
                             t_type = "s")
     print(lck_ttest)
-    lck_ttest.to_excel("lck_ttest_results.xlsx")
+    lck_ttest.to_excel("western_blot_data/Supplementary Folder 1 File E Lck Western Statistics.xlsx")
     sigs = make_sigstrings(list(lck_ttest['pvalue'].astype(float).to_numpy()))
     xs = [[i-0.2+0.05*j for j in range(4)] for i in range(1,4)]
     centers = [i-0.2 + (0.05*3/2) for i in range(1,4)]
     maxs = [max(samples[i][1]) for i in range(len(samples))]
     means = [mean(item[1]) for item in samples]
-    stds = [standard_deviation(item[1]) for item in samples]
+    stds = [standard_deviation(item[1]) / (len(item[1])**(0.5)) for item in samples]
     mean_up = [means[i] + stds[i] for i in range(len(means))]
     mean_down = [means[i] - stds[i] for i in range(len(means))]
     colours = ["blue", "cyan", "hotpink"]
@@ -123,7 +126,7 @@ def main():
     ax.set_yticklabels([f"{i}M" for i in range(8)], font = "Arial", fontsize = 12, fontweight = "bold")
     ax.set_xticks(centers)
     ax.set_xticklabels([samples[0][0], samples[1][0], samples[2][0]], font = "Arial", fontsize = 12, fontweight = "bold")#, rotation = 0, ha = "center", rotation_mode = "anchor")
-    plt.savefig("lck_abundance.pdf", bbox_inches = "tight")
+    plt.savefig("western_blot_data/Supplementary Folder 1 File E Lck Western Plot.pdf", bbox_inches = "tight")
     plt.show()
     return None
 
